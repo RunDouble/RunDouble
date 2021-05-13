@@ -1,2 +1,2 @@
-W.I.P
+## Welcome to [wu.run](http://wu.run)
 
